@@ -71,5 +71,4 @@ Download `NYC_Airbnb_Market_Analysis.xlsx` and open it in Microsoft Excel. Use t
 
 ## Author
 **Salman Shahzad**, Data Analyst
-[LinkedIn](https://www.linkedin.com/in/salmanshahzad888)# nyc-airbnb-excel-analysis
-Excel analysis of 30K+ NYC Airbnb listings: data cleaning, formula-based features, PivotTables, and an interactive dashboard.
+[LinkedIn](https://www.linkedin.com/in/salmanshahzad888)
