@@ -69,7 +69,10 @@ Offer Manhattan hosts a pricing guidance tool, starting with overpriced shared r
 ## How to Use
 Download `NYC_Airbnb_Market_Analysis.xlsx` and open it in Microsoft Excel. Use the slicers on the Dashboard sheet to filter the results.
 
-## Author
-**Salman Shahzad**, Data Analyst
+## 👤 Author
+
+**Salman Shahzad** — Data Analyst
+
 [LinkedIn](https://www.linkedin.com/in/salmanshahzad888)
+
 [![GitHub](https://img.shields.io/badge/GitHub-salmanshahzad888-181717?logo=github)](https://github.com/salmanshahzad888)
